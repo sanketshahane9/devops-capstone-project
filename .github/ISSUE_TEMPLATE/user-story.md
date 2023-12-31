@@ -1,6 +1,6 @@
 ---
-name: Issue template
-about: default issue templates
+name: User Story
+about: This templates is creating user stories
 title: ''
 labels: ''
 assignees: sanketshahane9
